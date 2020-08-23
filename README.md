@@ -1,1 +1,1 @@
-## Repositório de teste para o Cogito
+## Repositório de teste para o Cogitable
